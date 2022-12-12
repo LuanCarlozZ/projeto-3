@@ -1,0 +1,56 @@
+{
+  "sanduiches": [
+    {
+      "nome": "x-bacon",
+      "preço": 5,
+      "id": 1
+    },
+    {
+      "nome": "x-egg",
+      "preço": 5,
+      "id": 2
+    },
+    {
+      "nome": "x-tudo",
+      "preço": 7,
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "bebida": [
+    {
+      "nome": "guaracamp",
+      "preço": 2,
+      "id": 1
+    },
+    {
+      "nome": "coca",
+      "preço": 8,
+      "id": 2
+    },
+    {
+      "nome": "toddynho",
+      "preço": 1,
+      "id": 3
+    }
+  ],
+  "drinks": [
+    {
+      "nome": "capirinha",
+      "preço": 16,
+      "id": 1
+    },
+    {
+      "nome": "tequila",
+      "preço": 5,
+      "id": 2
+    },
+    {
+      "nome": "alexander",
+      "preço": 20,
+      "id": 3
+    }
+  ]
+}
